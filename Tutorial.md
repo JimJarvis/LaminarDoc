@@ -1,6 +1,3 @@
-#Contents
-[TOC]
-
 #Introduction
 ## What is Deep Learning?
 
