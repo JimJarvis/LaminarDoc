@@ -152,12 +152,12 @@ The perplexity of the predictive distribution should be as low as possible.
 
 Excerpt:
 
-> Stand forth, Lysander: and my gracious duke, 
-This man hath bewitch'd the bosom of my child; 
-Thou, thou, Lysander, 
-thou hast given her rhymes, 
-And interchanged love-tokens with my child: 
-Thou hast by moonlight at her window sung
+> Stand forth, Lysander: and my gracious duke, <br>
+	This man hath bewitch'd the bosom of my child; <br>
+	Thou, thou, Lysander,  <br>
+	thou hast given her rhymes, <br> 
+	And interchanged love-tokens with my child:  <br>
+	Thou hast by moonlight at her window sung
 
 
 ###Kant's *Critique of Pure Reason*
