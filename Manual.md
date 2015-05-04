@@ -1,3 +1,6 @@
+#Contents
+[TOC]
+
 #*Laminar* Architecture
 
 The manual is organized in the order of *Laminar*'s high-level architecture. 

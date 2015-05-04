@@ -1,3 +1,6 @@
+#Contents
+[TOC]
+
 #***Laminar*** Architecture
 
 The highest-level overview of the *Laminar* architecture:
