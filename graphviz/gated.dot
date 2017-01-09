@@ -1,0 +1,13 @@
+  digraph G {
+    aize ="4,4";
+    loss [group=g1];
+    cosine;
+    tanh;
+    input [group=g1];
+    loss -> cosine [dir=none style=dotted];
+    cosine -> input [dir=back color="black:black"];
+    loss -> tanh [dir=back color="black:black"];
+    loss -> tanh [dir=back label=1];
+    loss -> tanh [dir=back label=2];
+    tanh -> input [dir=back color="black:black"];
+  }

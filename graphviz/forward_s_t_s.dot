@@ -1,0 +1,12 @@
+ digraph G {
+    aize ="4,4";
+    Cross_Entropy [group=g1 label="cross entropy"];
+    Sigmoid1 [label="sigmoid"];
+    tanh;
+    Sigmoid2 [label="sigmoid"];
+    input [group=g1];
+    Cross_Entropy -> Sigmoid1 [dir=back color="black:black"];
+    Sigmoid1 -> tanh [dir=back color="black:black"];
+    tanh -> Sigmoid2 [dir=back color="black:black"];
+    Sigmoid2 -> input [dir=back color="black:black"];
+  }
